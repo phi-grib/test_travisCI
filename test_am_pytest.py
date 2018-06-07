@@ -7,5 +7,5 @@ def test_numbers_3_4():
 
 
 def test_strings_a_3():
-    assert multiply('a', 3) == 'aa'
+    assert multiply('a', 3) == 'aaa'
     assert suma('a', 'a') == 'aa'
