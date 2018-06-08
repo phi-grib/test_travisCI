@@ -2,7 +2,7 @@ from astonishing_math import multiply, suma
 
 
 def test_numbers_3_4():
-    assert multiply(3, 4) == 12
+    assert multiply(3, 4) == 13
     assert suma(3, 4) == 7
 
 
